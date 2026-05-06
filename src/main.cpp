@@ -16,4 +16,7 @@ void loop() {
 
 //Text Message 
 //Test New Branch
+<<<<<<< HEAD
 // Nachricht für Branche01
+=======
+>>>>>>> d05f73f9b52cecb3c4f4d21d31b5f8a21ebded7a
